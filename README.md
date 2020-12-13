@@ -1,6 +1,9 @@
 # React-Tutorial
-
-React Hooks
+- [x] useState :thumbsup: :+1:
+- [x] useEffect :thumbsup: :+1:
+- [x] useEffect Clean up :thumbsup: :+1:
+ 
+# React Hooks
 
 - useState
 [ useState ](https://codesandbox.io/s/usestate-example-65znx)
