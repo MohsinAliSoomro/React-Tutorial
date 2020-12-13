@@ -5,6 +5,8 @@
 - [x] useEffect Clean up :thumbsup: 
 - [x] useRef :thumbsup: 
 - [x] useMemp :thumbsup: 
+- [x] useArray :thumbsup: 
+       - npm i react-hanger
  
 ## Example
 
@@ -22,3 +24,6 @@
 
 - useMemo Example
 [useMemo](https://codesandbox.io/s/usememo-3nwx3)
+
+- useArray Example
+[useArray](https://codesandbox.io/s/usearray-ryyqe)
