@@ -1,7 +1,7 @@
 # React-Tutorial
-- [x] useState :thumbsup: :+1:
-- [x] useEffect :thumbsup: :+1:
-- [x] useEffect Clean up :thumbsup: :+1:
+- [x] useState :thumbsup: 
+- [x] useEffect :thumbsup: =
+- [x] useEffect Clean up :thumbsup: 
  
 # React Hooks
 
