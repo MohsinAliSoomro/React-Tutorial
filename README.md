@@ -1,6 +1,6 @@
 # React-Tutorial
 - [x] useState :thumbsup: 
-- [x] useEffect :thumbsup: =
+- [x] useEffect :thumbsup: 
 - [x] useEffect Clean up :thumbsup: 
  
 # React Hooks
