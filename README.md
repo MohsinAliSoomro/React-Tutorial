@@ -4,6 +4,7 @@
 - [x] useEffect :thumbsup: 
 - [x] useEffect Clean up :thumbsup: 
 - [x] useRef :thumbsup: 
+- [x] useMemp :thumbsup: 
  
 ## Example
 
@@ -17,4 +18,7 @@
 [useEffect clean up ](https://codesandbox.io/s/useeffect-clean-up-tx629)
 
 - useRef Example 
-[useRef](https://codesandbox.io/s/useref-gwm3t)
+[useRef](https://codesandbox.io/s/useref-gwm3t
+
+- useMemo Example
+[useMemo](https://codesandbox.io/s/usememo-3nwx3)
