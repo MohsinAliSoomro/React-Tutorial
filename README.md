@@ -6,7 +6,7 @@
 - [x] useRef :thumbsup: 
 - [x] useMemp :thumbsup: 
 - [x] useArray :thumbsup: 
-       - npm i react-hanger
+    - npm i react-hanger
  
 ## Example
 
